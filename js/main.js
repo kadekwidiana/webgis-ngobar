@@ -29,15 +29,16 @@ var map = L.map('map', {
 });
 
 // Menambahkan marker
-var littleton = L.marker([39.61, -105.02]).bindPopup('This is Littleton, CO.')
-var cities = L.layerGroup([littleton]);
+var location1 = L.marker([-8.116546075955435, 115.08772076821784]).bindPopup('This is Marker Location UNDIKSHA')
 
 // Membuat layerGrup
+var marker1 = L.layerGroup([location1]);
 var ibukota = L.layerGroup();
 var batasKab = L.layerGroup();
 
 // Kontrol layer
 var overlayMaps = {
+    "Marker": marker1,
     "Ibukota Kabupaten": ibukota,
     "Batas Kabupaten": batasKab,
 };
