@@ -101,7 +101,7 @@ fetch("geojson/ibukota.geojson")
     .catch(error => console.error("Error fetching GeoJSON:", error));
 ```
 
-## Menampilkan layer dari Geoserver Web Map Service (WMS)
+## Menampilkan layer batas kabupaten di bali dari Geoserver Web Map Service (WMS)
 Tile layer wms
 ```javascript
 // Menambahkan layer dari GeoServer WMS
