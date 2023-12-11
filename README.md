@@ -1,6 +1,7 @@
 # Membuat Webgis sederhana dengan LeafletJS
-Download repository ini untuk memulai
-Bisa download langsung berupa zip atau git clone
+#### Download repository ini untuk memulai
+#### Bisa download langsung berupa zip atau git clone
+#### Ikuti langkah di bawah ini, pada file /js/main.js
 
 ## Inisialisasi basemap dan Map
 Basemap
