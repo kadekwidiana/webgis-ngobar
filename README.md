@@ -3,7 +3,8 @@
 # Step 1
 # Inisialisasi basemap dan Map
 Basemap
-`// List Basemap
+```javascript
+    // List Basemap
 var openStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '©OpenStreetMap Contributors',
 });
@@ -24,7 +25,9 @@ var googleTerrain = L.tileLayer('https://{s}.google.com/vt/lyrs=p&x={x}&y={y}&z=
     maxZoom: 20,
     subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
     attribution: '©Google Terrain'
-});`
+});
+```
+
 
 Map di element HTML id = "map"
 `var map = L.map('map', {
