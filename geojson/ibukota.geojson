@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.22220865607788,
+                    -8.664189442216596
+                ]
+            },
+            "properties": {
+                "name": "Denpasar",
+                "image": "https://lh5.googleusercontent.com/p/AF1QipPxDSRtGWVcjwibCUpNer0vSEG6__GVNNbLuQ0a=w408-h280-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.07687999288561,
+                    -8.121318774696684
+                ]
+            },
+            "properties": {
+                "name": "Singaraja",
+                "image": "https://lh5.googleusercontent.com/p/AF1QipOhNsKENQoOMxRf40SPS9-mb_qGpt_HjDD7F7dy=w426-h240-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.61372166348843,
+                    -8.447172088162644
+                ]
+            },
+            "properties": {
+                "name": "Amlapura",
+                "image": "https://lh5.googleusercontent.com/p/AF1QipOnVePJWXVvD2tqzuCXO4ilqtsw1pG7ohMG7tr-=w408-h306-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.40236591880131,
+                    -8.537886640504722
+                ]
+            },
+            "properties": {
+                "name": "Semarapura",
+                "image": "https://lh5.googleusercontent.com/p/AF1QipOSyEWH7hr46z9ixLD73eACMqIOUNgvWyIbaeF3=w408-h413-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.35572567428582,
+                    -8.453781797849162
+                ]
+            },
+            "properties": {
+                "name": "Bangli",
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMUCgyqVbsYmWwUQqy_BIV5oy3_nfqOsjz5a5gH=w427-h240-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.17724782241076,
+                    -8.578611645721038
+                ]
+            },
+            "properties": {
+                "name": "Badung",
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMJQDbe7o_hqiElNiHRxykmjO_f32r5LFsZbNiV=w507-h240-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.61831841881856,
+                    -8.363999103115466
+                ]
+            },
+            "properties": {
+                "name": "Negara",
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMCvkCo0IwuIjJe27zeX_6qiVh-qAzIVQySMe1i=w426-h240-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.12643605844785,
+                    -8.53379742250508
+                ]
+            },
+            "properties": {
+                "name": "Tabanan",
+                "image": "https://lh5.googleusercontent.com/p/AF1QipN_ZwXYPCovMzD3bLLDqZxDVeneDb5AnQAUbMh0=w408-h279-k-no"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.3275633304128,
+                    -8.540923900295049
+                ]
+            },
+            "properties": {
+                "name": "Gianyar",
+                "image": "https://lh5.googleusercontent.com/p/AF1QipMjtMRbr3dX0FeZImzmuaODclQWA1a-Y1_uXt_j=w408-h273-k-no"
+            }
+        }
+    ]
+}
